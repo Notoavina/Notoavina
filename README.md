@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Welcome to my GitHub profile! I'm a Vue.js Frontend Developer.
+
+<!-- GitHub Profile Stats -->
+![GitHub Profile Stats](https://github-readme-stats.vercel.app/api?Notoavina_github_username&show_icons=true&count_private=true&hide_title=true)
+
+<!-- Top Languages Card -->
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?Notoavina_github_username&layout=compact&hide_title=true)
